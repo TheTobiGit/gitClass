@@ -1,2 +1,2 @@
-# gitClass
+# Aaron Addae
 Github session in class
